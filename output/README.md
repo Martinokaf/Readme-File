@@ -12,7 +12,7 @@ This application is a README Generator which is a powerful command-line tool for
 - [Questions](#questions)
 
 ## Installation
-Simply clone the repository to your local machine using the command line npm install to install all the necessary dependencies, including the Inquirer package.
+Simply clone the repository to your local machine using the command line npm install to install all the necessary dependancies, including the Inquirer package
 
 ## Usage
 Simply enter node index.js into the terminal and hit enter for some prompt questions to be presented, when the questions are being answered, a readme is being generated into the output folder
