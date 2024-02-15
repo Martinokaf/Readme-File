@@ -27,8 +27,8 @@ Type the command node index.js in the terminal to launch the Readme Generator. A
 
 There are two questions that require you to use the arrows on your keyboard to select your choice. Once completed, the README will be generated and saved in the Output folder
 
-
-![Screenshot](/images/Screenshot.png)
+![Screenshot](images/Screenshot1.png)
+![Screenshot](images/Screenshot.png)
 
 ## License
 
